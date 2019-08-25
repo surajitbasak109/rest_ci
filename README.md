@@ -18,7 +18,8 @@ RewriteRule ^(.*)$ index.php/$1 [L]
 ```
 After that You need to install Postman native application from [here](https://www.getpostman.com/products).
 
-##Examples
+###Examples
+
 To get all books (assume server host is: http://localhost/rest_ci)
 
 Method | URL | Format | Key Value Pair
