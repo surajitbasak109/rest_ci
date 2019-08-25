@@ -1,4 +1,4 @@
-# RESTful API with codeigniter
+## RESTful API with codeigniter
 
 To create REST application using codeigniter you need to use **chriskacerguis/codeigniter-restserver** library.
 To use this library you can use bellow command in CLI(Command Line Interface):
@@ -18,7 +18,7 @@ RewriteRule ^(.*)$ index.php/$1 [L]
 ```
 After that You need to install Postman native application from [here](https://www.getpostman.com/products).
 
-###Examples
+### Examples
 
 To get all books (assume server host is: http://localhost/rest_ci)
 
